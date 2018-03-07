@@ -1,9 +1,11 @@
 ---
 permalink: /
-title: "You found my secret place. :p"
+title: "About me"
 excerpt: "About me"
 author_profile: true
 redirect_from:
   - /about/
   - /about.html
 ---
+
+You found my secret place! :p
