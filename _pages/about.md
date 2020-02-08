@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-You found my secret place! :p
+I am software engineer living in San Francisco Bay Area. 
